@@ -1,5 +1,5 @@
 # RCWA
-An electromagnetic simulation tool programmed in Matlab by using the method Rigorous Coupled-Wave analysis (RCWA).
+An electromagnetic simulation tool programmed in Matlab by using the method Rigorous Coupled-Wave analysis (RCWA), developed by [Jia LIU].
 
 For the detailed derivation please consult this: 
 
@@ -31,5 +31,5 @@ License
 
 MIT
 
-
+   [Jia LIU]: <http://l-j.xyz/>
 
