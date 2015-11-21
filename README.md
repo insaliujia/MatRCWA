@@ -1,7 +1,10 @@
 # RCWA
 An electromagnetic simulation tool programmed in Matlab by using the method Rigorous Coupled-Wave analysis (RCWA).
 
-For the detailed derivation please consult this: Rumpf, R. C. (2011). Improved formulation of scattering matrices for semi-analytical methods that is consistent with convention. Progress In Electromagnetics Research B, 35, 241-261.
+For the detailed derivation please consult this: 
+Moharam, M. G., & Gaylord, T. K. (1981). Rigorous coupled-wave analysis of planar-grating diffraction. JOSA, 71(7), 811-818.
+Rumpf, R. C. (2011). Improved formulation of scattering matrices for semi-analytical methods that is consistent with convention. Progress In Electromagnetics Research B, 35, 241-261.
+Liscidini, M., Gerace, D., Andreani, L. C., & Sipe, J. E. (2008). Scattering-matrix analysis of periodically patterned multilayers with asymmetric unit cells and birefringent media. Physical Review B, 77(3), 035324.
 
 # User manual
 The program use object oriented programming paradigm in Matlab without using any toolboxes. So only a valide version of Matlab is needed to use it. 
